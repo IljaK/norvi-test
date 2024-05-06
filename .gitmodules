@@ -1,0 +1,7 @@
+
+[submodule "lib/arduino-helpers"]
+	path = lib/arduino-helpers
+	url = https://github.com/IljaK/arduino-helpers
+[submodule "lib/async-GSM"]
+	path = lib/async-GSM
+	url = https://github.com/IljaK/async-GSM
