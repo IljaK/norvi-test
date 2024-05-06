@@ -1,5 +1,8 @@
 # norvi-test
 Norvi controller test application for GSM modem and input pins
+* Wait till Quectel modem initialize
+* Make call
+* Observer input pin value changes
 
 # Requirements:
 1) VSCode:
